@@ -1,0 +1,8 @@
+
+### Libraries for installation
+
+pip install pandas
+
+pip install openpyxl
+
+pip install win32com
